@@ -1,2 +1,2 @@
 # Docker
-For learn purpose
+For iseng purpose
